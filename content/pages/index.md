@@ -25,7 +25,7 @@ sections:
           - label: Get Started
             url: /docs
             style: link
-      - title: LOPD-GDD
+      - title: "LOPD-GDD\_ - EIPD - ISO 27001"
         content: >-
           Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
           nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
