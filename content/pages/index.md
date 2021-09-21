@@ -5,9 +5,9 @@ sections:
     type: section_hero
     title: JM Consultores SLU
     image: images/5.jpg
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    content: >
+      Especialistas en Protección de datos LOPD-GDD  - ISO 27001 -  Programación
+      a medida
     actions:
       - label: Get Started
         url: /docs
