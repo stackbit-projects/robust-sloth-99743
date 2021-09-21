@@ -9,7 +9,7 @@ sections:
       Especialistas en Protección de datos LOPD-GDD  - ISO 27001 -  Programación
       a medida
     actions:
-      - label: Get Started
+      - label: Empecemos
         url: /docs
         style: primary
   - section_id: features
